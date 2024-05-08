@@ -17,6 +17,7 @@
       - Previous injury history
       - Days missed due to injury
       - Previous TJS flag
+      - Average length of outing (IP/game; pitches/game)
 - [ ] Model (2 weeks)
   - [ ] Research what model to use
     - Initial thoughts:
