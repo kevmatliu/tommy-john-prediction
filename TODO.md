@@ -3,8 +3,6 @@
 ### Todo
 
 - [ ] Injury Dataset (1 week)
-  - [ ] Use NLP model to get injury types + type of IL
-    - Maybe even severity of injury -- like if surgery was needed
 - [ ] Stats (2 weeks)
   - [ ] Fetching all necessary stats associated with a player from statcast
     - Possible factors that can influence TJ:
@@ -33,9 +31,13 @@
 - [ ] Injury Dataset
   - [ ] Cross-referencing players to their bbref id
   - [ ] Get amount of time on IL ("relinquished" data minus "acquired" date)
+  - [ ] Refining NLP model
 
 ### Done ✓
 
 - [x] Scraped all injuries (i.e., determined when players were placed on ILs) 
       since 2008 season
+- [x] Developed NLP model to get injury types + type of IL
+  - 96.9% accuracy
+- [x] Featurized the injury dataset 
 
