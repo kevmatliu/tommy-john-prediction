@@ -1,0 +1,1197 @@
+[
+    {
+        "text": "placed on 15-day DL with right shoulder fatigue",
+        "entities": [
+            "15-day DL",
+            "fatigue",
+            "right shoulder"
+        ]
+    },
+    {
+        "text": "back injury (DTD)",
+        "entities": [
+            "DTD",
+            "injury",
+            "back"
+        ]
+    },
+    {
+        "text": "placed on 10-day IL with strained right shoulder",
+        "entities": [
+            "10-day IL",
+            "strained",
+            "right shoulder"
+        ]
+    },
+    {
+        "text": "left foot injury (DTD)",
+        "entities": [
+            "DTD",
+            "injury",
+            "left foot"
+        ]
+    },
+    {
+        "text": "transferred to 60-day IL recovering from surgery on right elbow",
+        "entities": [
+            "60-day IL",
+            "surgery",
+            "right elbow"
+        ]
+    },
+    {
+        "text": "left hand injury (DTD)",
+        "entities": [
+            "DTD",
+            "injury",
+            "left hand"
+        ]
+    },
+    {
+        "text": "transferred to 60-day IL with strained left hip flexor",
+        "entities": [
+            "60-day IL",
+            "strained",
+            "left hip flexor"
+        ]
+    },
+    {
+        "text": "transferred to 60-day DL",
+        "entities": [
+            "60-day DL"
+        ]
+    },
+    {
+        "text": "sore right knee (DTD)",
+        "entities": [
+            "DTD",
+            "sore",
+            "right knee"
+        ]
+    },
+    {
+        "text": "illness (DTD)",
+        "entities": [
+            "DTD",
+            "illness"
+        ]
+    },
+    {
+        "text": "right hand injury (DTD)",
+        "entities": [
+            "DTD",
+            "injury",
+            "right hand"
+        ]
+    },
+    {
+        "text": "back injury (out for season)",
+        "entities": [
+            "out for season",
+            "injury",
+            "back"
+        ]
+    },
+    {
+        "text": "hamstring injury (out for season)",
+        "entities": [
+            "out for season",
+            "injury",
+            "hamstring"
+        ]
+    },
+    {
+        "text": "transferred to 60-day IL with surgery on right shoulder",
+        "entities": [
+            "60-day IL",
+            "surgery",
+            "right shoulder"
+        ]
+    },
+    {
+        "text": "fatigue (DTD)",
+        "entities": [
+            "DTD",
+            "fatigue"
+        ]
+    },
+    {
+        "text": "placed on 10-day IL with COVID-19 coronavirus",
+        "entities": [
+            "10-day IL",
+            "COVID-19"
+        ]
+    },
+    {
+        "text": "placed on 10-day IL with strained left calf",
+        "entities": [
+            "10-day IL",
+            "strained",
+            "left calf"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL with bulging disc in lower back",
+        "entities": [
+            "15-day DL",
+            "bulging disc",
+            "lower back"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL with strained lower back",
+        "entities": [
+            "15-day DL",
+            "strained",
+            "lower back"
+        ]
+    },
+    {
+        "text": "strained left calf (DTD)",
+        "entities": [
+            "DTD",
+            "strained",
+            "left calf"
+        ]
+    },
+    {
+        "text": "transferred to 60-day IL with strained lat muscle",
+        "entities": [
+            "60-day IL",
+            "strained",
+            "lat muscle"
+        ]
+    },
+    {
+        "text": "rib injury (DTD)",
+        "entities": [
+            "DTD",
+            "injury",
+            "rib"
+        ]
+    },
+    {
+        "text": "placed on 10-day IL with arthroscopic surgery on right knee / right knee inflammation",
+        "entities": [
+            "10-day IL",
+            "arthroscopic surgery",
+            "right knee"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL with viral infection",
+        "entities": [
+            "15-day DL",
+            "viral infection"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL with torn ACL in right knee",
+        "entities": [
+            "15-day DL",
+            "torn ACL",
+            "right knee"
+        ]
+    },
+    {
+        "text": "calf injury (DTD)",
+        "entities": [
+            "DTD",
+            "injury",
+            "calf"
+        ]
+    },
+    {
+        "text": "elbow injury (DTD)",
+        "entities": [
+            "DTD",
+            "injury",
+            "elbow"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL with fractured rib",
+        "entities": [
+            "15-day DL",
+            "fractured",
+            "rib"
+        ]
+    },
+    {
+        "text": "placed on 10-day IL with strained left oblique",
+        "entities": [
+            "10-day IL",
+            "strained",
+            "left oblique"
+        ]
+    },
+    {
+        "text": "transferred to 60-day DL with right elbow tendinitis (surgery) (out for season)",
+        "entities": [
+            "60-day DL",
+            "tendinitis",
+            "right elbow"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL with sprained MCL in right elbow",
+        "entities": [
+            "15-day DL",
+            "sprained MCL",
+            "right elbow"
+        ]
+    },
+    {
+        "text": "right knee injury (DTD)",
+        "entities": [
+            "DTD",
+            "injury",
+            "right knee"
+        ]
+    },
+    {
+        "text": "stiff neck (DTD)",
+        "entities": [
+            "DTD",
+            "stiff",
+            "neck"
+        ]
+    },
+    {
+        "text": "placed on 10-day IL with sprained left thumb",
+        "entities": [
+            "10-day IL",
+            "sprained",
+            "left thumb"
+        ]
+    },
+    {
+        "text": "right forearm injury (DTD)",
+        "entities": [
+            "DTD",
+            "injury",
+            "right forearm"
+        ]
+    },
+    {
+        "text": "ligament replacement (\"Tommy John\") surgery on right elbow (out indefinitely) (date approximate)",
+        "entities": [
+            "out indefinitely",
+            "Tommy John",
+            "right elbow"
+        ]
+    },
+    {
+        "text": "placed on 10-day DL with SC joint inflammation in left shoulder",
+        "entities": [
+            "10-day DL",
+            "SC joint inflammation",
+            "left shoulder"
+        ]
+    },
+    {
+        "text": "placed on 10-day DL with strained right lat muscle",
+        "entities": [
+            "10-day DL",
+            "strained",
+            "right lat muscle"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL with strained right elbow / nerve ailment in right elbow (out for season)",
+        "entities": [
+            "15-day DL",
+            "strained",
+            "right elbow"
+        ]
+    },
+    {
+        "text": "placed on 10-day IL with right shoulder inflammation / sore right shoulder",
+        "entities": [
+            "10-day IL",
+            "inflammation",
+            "right shoulder"
+        ]
+    },
+    {
+        "text": "placed on 10-day IL with strained left groin",
+        "entities": [
+            "10-day IL",
+            "strained",
+            "left groin"
+        ]
+    },
+    {
+        "text": "placed on 10-day IL with left shoulder fatigue",
+        "entities": [
+            "10-day IL",
+            "fatigue",
+            "left shoulder"
+        ]
+    },
+    {
+        "text": "placed on 60-day IL with right lumbar inflammation",
+        "entities": [
+            "60-day IL",
+            "inflammation",
+            "right lumbar"
+        ]
+    },
+    {
+        "text": "placed on 60-day IL with surgery on right pectoral",
+        "entities": [
+            "60-day IL",
+            "surgery",
+            "right pectoral"
+        ]
+    },
+    {
+        "text": "head injury (DTD)",
+        "entities": [
+            "DTD",
+            "injury",
+            "head"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL with right shoulder injury (CBC) / right biceps tendinitis (MLB)",
+        "entities": [
+            "15-day DL",
+            "tendinitis",
+            "right biceps"
+        ]
+    },
+    {
+        "text": "placed on 10-day DL with strained right groin",
+        "entities": [
+            "10-day DL",
+            "strained",
+            "right groin"
+        ]
+    },
+    {
+        "text": "left shoulder injury (DTD)",
+        "entities": [
+            "DTD",
+            "injury",
+            "left shoulder"
+        ]
+    },
+    {
+        "text": "placed on 10-day IL with right shoulder impingement",
+        "entities": [
+            "10-day IL",
+            "impingement",
+            "right shoulder"
+        ]
+    },
+    {
+        "text": "stomach ailment (DTD)",
+        "entities": [
+            "DTD",
+            "stomach ailment"
+        ]
+    },
+    {
+        "text": "placed on 10-day DL with right knee tendinitis",
+        "entities": [
+            "10-day DL",
+            "tendinitis",
+            "right knee"
+        ]
+    },
+    {
+        "text": "placed on 10-day IL with COVID-19 positive test",
+        "entities": [
+            "10-day IL",
+            "COVID-19"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL with strained left groin",
+        "entities": [
+            "15-day DL",
+            "strained",
+            "left groin"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL recovering from surgery on left knee to repair torn meniscus",
+        "entities": [
+            "15-day DL",
+            "surgery",
+            "left knee"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL with strained right shoulder",
+        "entities": [
+            "15-day DL",
+            "strained",
+            "right shoulder"
+        ]
+    },
+    {
+        "text": "right knee inflammation (DTD)",
+        "entities": [
+            "DTD",
+            "inflammation",
+            "right knee"
+        ]
+    },
+    {
+        "text": "placed on 10-day DL with strained flexor pronator in left arm",
+        "entities": [
+            "10-day DL",
+            "strained flexor pronator",
+            "left arm"
+        ]
+    },
+    {
+        "text": "placed on 10-day IL with discomfort in right shoulder",
+        "entities": [
+            "10-day IL",
+            "discomfort",
+            "right shoulder"
+        ]
+    },
+    {
+        "text": "bruised left knee (DTD)",
+        "entities": [
+            "DTD",
+            "bruised",
+            "left knee"
+        ]
+    },
+    {
+        "text": "placed on 10-day IL with strained right hamstring",
+        "entities": [
+            "10-day IL",
+            "strained",
+            "right hamstring"
+        ]
+    },
+    {
+        "text": "transferred to 60-day DL with concussion",
+        "entities": [
+            "60-day DL",
+            "concussion"
+        ]
+    },
+    {
+        "text": "placed on 10-day IL with fractured right shin (out for season)",
+        "entities": [
+            "10-day IL",
+            "fractured",
+            "right shin"
+        ]
+    },
+    {
+        "text": "placed on 15-day IL with strained lower back",
+        "entities": [
+            "15-day IL",
+            "strained",
+            "lower back"
+        ]
+    },
+    {
+        "text": "sore lower back (out for season)",
+        "entities": [
+            "out for season",
+            "sore",
+            "lower back"
+        ]
+    },
+    {
+        "text": "dislocated left thumb (DTD)",
+        "entities": [
+            "DTD",
+            "dislocated",
+            "left thumb"
+        ]
+    },
+    {
+        "text": "placed on 15-day IL with strained left groin",
+        "entities": [
+            "15-day IL",
+            "strained",
+            "left groin"
+        ]
+    },
+    {
+        "text": "quadriceps injury (DTD)",
+        "entities": [
+            "DTD",
+            "injury",
+            "quadriceps"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL recovering from ligament replacement (\"Tommy John\") surgery on elbow",
+        "entities": [
+            "15-day DL",
+            "Tommy John",
+            "elbow"
+        ]
+    },
+    {
+        "text": "hip injury (DTD)",
+        "entities": [
+            "DTD",
+            "injury",
+            "hip"
+        ]
+    },
+    {
+        "text": "placed on 10-day IL with left knee inflammation",
+        "entities": [
+            "10-day IL",
+            "inflammation",
+            "left knee"
+        ]
+    },
+    {
+        "text": "placed on 15-day IL with right lat muscle injury / right lateral epicondylitis",
+        "entities": [
+            "15-day IL",
+            "injury",
+            "right lat muscle"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL with bone bruise in left foot",
+        "entities": [
+            "15-day DL",
+            "bone bruise",
+            "left foot"
+        ]
+    },
+    {
+        "text": "transferred to 60-day IL with sprained left ankle",
+        "entities": [
+            "60-day IL",
+            "sprained",
+            "left ankle"
+        ]
+    },
+    {
+        "text": "left hamstring injury (DTD)",
+        "entities": [
+            "DTD",
+            "injury",
+            "left hamstring"
+        ]
+    },
+    {
+        "text": "placed on 10-day DL with right shoulder inflammation",
+        "entities": [
+            "10-day DL",
+            "inflammation",
+            "right shoulder"
+        ]
+    },
+    {
+        "text": "transferred to 60-day DL with left elbow inflammation",
+        "entities": [
+            "60-day DL",
+            "inflammation",
+            "left elbow"
+        ]
+    },
+    {
+        "text": "placed on 15-day IL with tightness in right elbow",
+        "entities": [
+            "15-day IL",
+            "tightness",
+            "right elbow"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL with right big toe inflammation",
+        "entities": [
+            "15-day DL",
+            "inflammation",
+            "right big toe"
+        ]
+    },
+    {
+        "text": "surgery on right elbow (date approximate)",
+        "entities": [
+            "date approximate",
+            "surgery",
+            "right elbow"
+        ]
+    },
+    {
+        "text": "placed on 10-day IL with carpal tunnel syndrome in left hand",
+        "entities": [
+            "10-day IL",
+            "carpal tunnel syndrome",
+            "left hand"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL with strained right lumbar spine",
+        "entities": [
+            "15-day DL",
+            "strained",
+            "right lumbar spine"
+        ]
+    },
+    {
+        "text": "strained left hamstring (DTD)",
+        "entities": [
+            "DTD",
+            "strained",
+            "left hamstring"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL with strained right biceps",
+        "entities": [
+            "15-day DL",
+            "strained",
+            "right biceps"
+        ]
+    },
+    {
+        "text": "sprained right thumb (DTD)",
+        "entities": [
+            "DTD",
+            "sprained",
+            "right thumb"
+        ]
+    },
+    {
+        "text": "transferred to 60-day DL with surgery on lower back",
+        "entities": [
+            "60-day DL",
+            "surgery",
+            "lower back"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL with hyper-extended right elbow",
+        "entities": [
+            "15-day DL",
+            "hyper-extended",
+            "right elbow"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL with bruised left knee",
+        "entities": [
+            "15-day DL",
+            "bruised",
+            "left knee"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL recovering from surgery on core muscle",
+        "entities": [
+            "15-day DL",
+            "surgery",
+            "core muscle"
+        ]
+    },
+    {
+        "text": "transferred to 60-day IL with strained left shoulder (out for season)",
+        "entities": [
+            "60-day IL",
+            "strained",
+            "left shoulder"
+        ]
+    },
+    {
+        "text": "placed on 10-day DL with right shoulder impingement",
+        "entities": [
+            "10-day DL",
+            "impingement",
+            "right shoulder"
+        ]
+    },
+    {
+        "text": "groin injury (DTD)",
+        "entities": [
+            "DTD",
+            "injury",
+            "groin"
+        ]
+    },
+    {
+        "text": "right side injury (DTD)",
+        "entities": [
+            "DTD",
+            "injury",
+            "right side"
+        ]
+    },
+    {
+        "text": "strained right quadriceps (DTD)",
+        "entities": [
+            "DTD",
+            "strained",
+            "right quadriceps"
+        ]
+    },
+    {
+        "text": "transferred to 60-day DL transferred to 10-day DL with concussion (out for season)",
+        "entities": [
+            "60-day DL",
+            "concussion"
+        ]
+    },
+    {
+        "text": "right foot injury (DTD)",
+        "entities": [
+            "DTD",
+            "injury",
+            "right foot"
+        ]
+    },
+    {
+        "text": "sprained left ankle (DTD)",
+        "entities": [
+            "DTD",
+            "sprained",
+            "left ankle"
+        ]
+    },
+    {
+        "text": "placed on 10-day IL with right hand inflammation",
+        "entities": [
+            "10-day IL",
+            "inflammation",
+            "right hand"
+        ]
+    },
+    {
+        "text": "placed on 10-day IL recovering from ligament replacement (\"Tommy John\") surgery on right elbow",
+        "entities": [
+            "10-day IL",
+            "Tommy John",
+            "right elbow"
+        ]
+    },
+    {
+        "text": "placed on 15-day IL with strained left oblique",
+        "entities": [
+            "15-day IL",
+            "strained",
+            "left oblique"
+        ]
+    },
+    {
+        "text": "placed on 10-day IL with right elbow tendinitis",
+        "entities": [
+            "10-day IL",
+            "tendinitis",
+            "right elbow"
+        ]
+    },
+    {
+        "text": "placed on 10-day IL with sore right shoulder",
+        "entities": [
+            "10-day IL",
+            "sore",
+            "right shoulder"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL with strained flexor in right elbow",
+        "entities": [
+            "15-day DL",
+            "strained flexor",
+            "right elbow"
+        ]
+    },
+    {
+        "text": "placed on 60-day IL with surgery on right knee",
+        "entities": [
+            "60-day IL",
+            "surgery",
+            "right knee"
+        ]
+    },
+    {
+        "text": "bruised right foot (out indefinitely)",
+        "entities": [
+            "out indefinitely",
+            "bruised",
+            "right foot"
+        ]
+    },
+    {
+        "text": "wrist injury (DTD)",
+        "entities": [
+            "DTD",
+            "injury",
+            "wrist"
+        ]
+    },
+    {
+        "text": "strained left hamstring (out for season)",
+        "entities": [
+            "out for season",
+            "strained",
+            "left hamstring"
+        ]
+    },
+    {
+        "text": "transferred to 60-day DL with right shoulder inflammation",
+        "entities": [
+            "60-day DL",
+            "inflammation",
+            "right shoulder"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL with strained left shoulder",
+        "entities": [
+            "15-day DL",
+            "strained",
+            "left shoulder"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL with right knee patella tendinitis",
+        "entities": [
+            "15-day DL",
+            "patella tendinitis",
+            "right knee"
+        ]
+    },
+    {
+        "text": "bruised lower back (DTD)",
+        "entities": [
+            "DTD",
+            "bruised",
+            "lower back"
+        ]
+    },
+    {
+        "text": "sore right shoulder (DTD)",
+        "entities": [
+            "DTD",
+            "sore",
+            "right shoulder"
+        ]
+    },
+    {
+        "text": "surgery to repair hernia (out for season)",
+        "entities": [
+            "out for season",
+            "surgery",
+            "hernia"
+        ]
+    },
+    {
+        "text": "fractured right wrist (out indefinitely)",
+        "entities": [
+            "out indefinitely",
+            "fractured",
+            "right wrist"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL with sprained right ankle",
+        "entities": [
+            "15-day DL",
+            "sprained",
+            "right ankle"
+        ]
+    },
+    {
+        "text": "strained left oblique (DTD)",
+        "entities": [
+            "DTD",
+            "strained",
+            "left oblique"
+        ]
+    },
+    {
+        "text": "ligament replacement (\"Tommy John\") surgery on left elbow (out for season)",
+        "entities": [
+            "out for season",
+            "Tommy John",
+            "left elbow"
+        ]
+    },
+    {
+        "text": "fractured nose (DTD)",
+        "entities": [
+            "DTD",
+            "fractured",
+            "nose"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL with lower back spasms",
+        "entities": [
+            "15-day DL",
+            "lower back",
+            "spasms"
+        ]
+    },
+    {
+        "text": "transferred to 60-day IL with stress fracture in back",
+        "entities": [
+            "60-day IL",
+            "stress fracture",
+            "back"
+        ]
+    },
+    {
+        "text": "placed on 60-day DL with surgery on elbow",
+        "entities": [
+            "60-day DL",
+            "surgery",
+            "elbow"
+        ]
+    },
+    {
+        "text": "placed on 10-day IL with non-baseball issue",
+        "entities": [
+            "10-day IL",
+            "non-baseball issue"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL with strained left calf",
+        "entities": [
+            "15-day DL",
+            "strained",
+            "left calf"
+        ]
+    },
+    {
+        "text": "sore left ankle (DTD)",
+        "entities": [
+            "DTD",
+            "sore",
+            "left ankle"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL with strained ligament in left thumb",
+        "entities": [
+            "15-day DL",
+            "strained ligament",
+            "left thumb"
+        ]
+    },
+    {
+        "text": "transferred to 60-day DL with surgery on left knee",
+        "entities": [
+            "60-day DL",
+            "surgery",
+            "left knee"
+        ]
+    },
+    {
+        "text": "bruised left eye (DTD)",
+        "entities": [
+            "DTD",
+            "bruised",
+            "left eye"
+        ]
+    },
+    {
+        "text": "placed on 10-day DL with bruised right wrist",
+        "entities": [
+            "10-day DL",
+            "bruised",
+            "right wrist"
+        ]
+    },
+    {
+        "text": "placed on 10-day DL with sprained left ankle",
+        "entities": [
+            "10-day DL",
+            "sprained",
+            "left ankle"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL with fractured left wrist",
+        "entities": [
+            "15-day DL",
+            "fractured",
+            "left wrist"
+        ]
+    },
+    {
+        "text": "surgery on right index finger to repair ligament (out indefinitely)",
+        "entities": [
+            "out indefinitely",
+            "surgery",
+            "right index finger"
+        ]
+    },
+    {
+        "text": "neck / wrist injury (out for season)",
+        "entities": [
+            "out for season",
+            "injury",
+            "neck / wrist"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL with blood clot in left armpit",
+        "entities": [
+            "15-day DL",
+            "blood clot",
+            "left armpit"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL with sore right shoulder",
+        "entities": [
+            "15-day DL",
+            "sore",
+            "right shoulder"
+        ]
+    },
+    {
+        "text": "sore left wrist (DTD)",
+        "entities": [
+            "DTD",
+            "sore",
+            "left wrist"
+        ]
+    },
+    {
+        "text": "abdominal injury (DTD)",
+        "entities": [
+            "DTD",
+            "injury",
+            "abdominal"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL with strained right forearm",
+        "entities": [
+            "15-day DL",
+            "strained",
+            "right forearm"
+        ]
+    },
+    {
+        "text": "placed on 7-day / 15-day DL with left hamstring inflammation",
+        "entities": [
+            "15-day DL",
+            "inflammation",
+            "left hamstring"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL with fractured right elbow",
+        "entities": [
+            "15-day DL",
+            "fractured",
+            "right elbow"
+        ]
+    },
+    {
+        "text": "placed on 10-day IL with strained left adductor",
+        "entities": [
+            "10-day IL",
+            "strained",
+            "left adductor"
+        ]
+    },
+    {
+        "text": "placed on 10-day IL with strained right lat muscle in back (out for season)",
+        "entities": [
+            "10-day IL",
+            "strained",
+            "right lat muscle"
+        ]
+    },
+    {
+        "text": "leg injury (DTD)",
+        "entities": [
+            "DTD",
+            "injury",
+            "leg"
+        ]
+    },
+    {
+        "text": "placed on 10-day DL with strained left hamstring",
+        "entities": [
+            "10-day DL",
+            "strained",
+            "left hamstring"
+        ]
+    },
+    {
+        "text": "placed on 60-day DL with dislocated left kneecap",
+        "entities": [
+            "60-day DL",
+            "dislocated",
+            "left kneecap"
+        ]
+    },
+    {
+        "text": "sprained right shoulder (DTD)",
+        "entities": [
+            "DTD",
+            "sprained",
+            "right shoulder"
+        ]
+    },
+    {
+        "text": "placed on 10-day DL with fractured right thumb",
+        "entities": [
+            "10-day DL",
+            "fractured",
+            "right thumb"
+        ]
+    },
+    {
+        "text": "fractured nose (out for season)",
+        "entities": [
+            "out for season",
+            "fractured",
+            "nose"
+        ]
+    },
+    {
+        "text": "left wrist injury (DTD)",
+        "entities": [
+            "DTD",
+            "injury",
+            "left wrist"
+        ]
+    },
+    {
+        "text": "concussion (DTD)",
+        "entities": [
+            "DTD",
+            "concussion"
+        ]
+    },
+    {
+        "text": "placed on 15-day DL with strained left hamstring",
+        "entities": [
+            "15-day DL",
+            "strained",
+            "left hamstring"
+        ]
+    },
+    {
+        "text": "flu (DTD)",
+        "entities": [
+            "DTD",
+            "flu"
+        ]
+    },
+    {
+        "text": "transferred to 60-day IL with surgery on right elbow to remove bone chips",
+        "entities": [
+            "60-day IL",
+            "surgery to remove bone chips",
+            "right elbow"
+        ]
+    }
+]
